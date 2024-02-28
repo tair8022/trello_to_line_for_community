@@ -1,0 +1,21 @@
+{
+    "task": [
+        {
+            "name": "[公告]二月財務報表",
+            "description": "",
+            "list_id": "你的Trello列表ID",
+            "frequency": "monthly",
+            "due_day": "7",
+            "due_time": "17:00"
+        },
+        {
+            "name": "[公告]二月會議記錄",
+            "description": "",
+            "list_id": "你的Trello列表ID",
+            "frequency": "monthly",
+            "due_day": "7",
+            "due_time": "17:00"
+        }
+
+    ]
+}
